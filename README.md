@@ -6,4 +6,4 @@
 
 ## Who are the UMA.rocks multisig owners?
 
-To be announced
+To be announced 🤫
