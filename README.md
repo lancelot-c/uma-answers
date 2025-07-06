@@ -8,4 +8,4 @@
 
 To be announced 🤫
 
-Talk to us on Discord if you want to be part of the voting committee.
+Talk to us on [Discord](https://discord.gg/nqxpBsv26A) if you want to be part of the voting committee.
