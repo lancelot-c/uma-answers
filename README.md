@@ -6,6 +6,6 @@
 
 ## Who are the members of the voting committee?
 
-To be announced 🤫
+To be announced soon 🤫
 
 Talk to us on [Discord](https://discord.gg/nqxpBsv26A) if you want to be part of the voting committee.
