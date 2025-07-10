@@ -14,17 +14,17 @@
 <table><tr>
   <td align="center"><a href="https://github.com/jessioc"><img alt="jessioc" src="https://avatars.githubusercontent.com/u/219574448?v=4" width="117" /><br />jessioc</a>
     <br />Discord: @jessicaonlychild
-    <br /><br />Long term UMA community member
+    <br /><br />Member of the <a href="https://docs.uma.xyz/verification-guide/verification-system">UMA Verification Team</a>
   </td>
   
   <td align="center"><a href="https://github.com/ilMagnifico"><img alt="ilMagnifico" src="https://avatars.githubusercontent.com/u/16544166?v=4" width="117" /><br />ilMagnifico</a>
     <br />Discord: @neos314
-    <br /><br />Trusted member of the<br />PolyWhale Repellers Discord
+    <br /><br />Trusted member of the<br /><a href="https://discord.gg/vjRfjGd2">PolyWhale Repellers Discord</a>
   </td>
   
   <td align="center"><a href="https://github.com/lancelot-c"><img alt="lancelot-c" src="https://avatars.githubusercontent.com/u/1041338?v=4" width="117" /><br />lancelot-c</a>
     <br />Discord: @frigodor
-    <br /><br />UMA.rocks founder
+    <br /><br />Founder of <a href="https://www.uma.rocks/">UMA.rocks</a>
   </td>
   
 </tr></table>
