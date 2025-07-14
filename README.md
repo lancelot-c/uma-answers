@@ -6,7 +6,7 @@
 
 - For every voting round, the [uma-bot repository](https://github.com/lancelot-c/uma-bot) creates a pull request in the [uma-answers repository](https://github.com/lancelot-c/uma-answers).
 - Then, the UMA.rocks voting committee have until 11AM UTC to agree on answers for the current voting round, make according changes to the pull request, approve it, and merge it.
--  Finally, the uma-bot repo [fetches](https://github.com/lancelot-c/uma-bot/blob/c9054c6f5b4df1116093a3ecd104dbfe77a66aa8/smart-contract-calls/common.ts#L706) these answers and commit them for all wallets of the pool.
+- Finally, the uma-bot repo [fetches](https://github.com/lancelot-c/uma-bot/blob/c9054c6f5b4df1116093a3ecd104dbfe77a66aa8/smart-contract-calls/common.ts#L706) these answers and commit them for all wallets of the pool.
 
 
 ## Who are the members of the voting committee?
