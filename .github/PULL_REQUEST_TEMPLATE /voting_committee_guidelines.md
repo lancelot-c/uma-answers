@@ -1,3 +1,5 @@
+branch main
+
 The UMA.rocks voting committee members, added as reviewers to this PR, need to choose the answers for the current voting round.
 
 # Guidelines for the voting committee
