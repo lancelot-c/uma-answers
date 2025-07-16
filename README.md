@@ -8,6 +8,15 @@
 - Then, the UMA.rocks voting committee have until 11AM UTC to agree on answers for the current voting round, make according changes to the pull request, approve it, and merge it.
 - Finally, the uma-bot repo [fetches](https://github.com/lancelot-c/uma-bot/blob/c9054c6f5b4df1116093a3ecd104dbfe77a66aa8/smart-contract-calls/common.ts#L706) these answers and commit them for all wallets of the pool.
 
+## What is the percentage of correct answers?
+
+The table below shows the number of total answers, correct answers, and the success rate the committee has achieved each month. It highlights the committee’s performance and accuracy over time.
+
+| Month      | Total Answers | Correct Answers | Success Rate |
+|------------|---------------|-----------------|--------------|
+| June 2025  | 50            | 48              | 96.0%        |
+| July 2025  | 50            | 50              | 100%         |
+| **Total**  | **100**       | **98**          | **98.0%**     |
 
 ## Who are the members of the voting committee?
 
