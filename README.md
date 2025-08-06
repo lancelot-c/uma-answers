@@ -1,4 +1,4 @@
-<ins><b>Note</b></ins>: If you are enjoying UMA.rocks, please consider tipping the committee members with their Ethereum addresses as they are currently working for free. 🙏
+<ins><b>Note</b></ins>: If you are enjoying UMA.rocks, please consider tipping the committee members on their Ethereum addresses as they are currently working for free. 🙏
 
 -----
 
