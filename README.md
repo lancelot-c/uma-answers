@@ -23,7 +23,7 @@
   </td>
   
   <td align="center"><a href="https://github.com/ilMagnifico"><img alt="ilMagnifico" src="https://avatars.githubusercontent.com/u/16544166?v=4" width="117" /><br />ilMagnifico</a>
-    <br /><br /><b>Known for:</b><br />Trusted member of the<br /><a href="https://discord.gg/vjRfjGd2">PolyWhale Repellers Discord</a>
+    <br /><br /><b>Known for:</b><br />Member of the <a href="https://docs.uma.xyz/verification-guide/verification-system">UMA Verification Team</a> and trusted member of the<br /><a href="https://discord.gg/vjRfjGd2">PolyWhale Repellers Discord</a>
     <br /><br /><b>Discord:</b><br />@neos314
     <br /><br /><b>Ethereum address:</b><br /><sup><sub>0x6fc5b81c6c117015fdd36fdea25a9c1ec243daf1</sub></sup>
   </td>
