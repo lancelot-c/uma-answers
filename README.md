@@ -17,9 +17,9 @@
     <br /><br /><b>Discord:</b><br />@jessicaonlychild
   </td>
   
-  <td align="center"><a href="https://github.com/okayway1"><img alt="okayway1" src="https://avatars.githubusercontent.com/u/246659321?v=4" width="117" /><br />okayway1</a>
-    <br /><br /><b>Known for:</b><br />Long-term UMA community member and voter
-    <br /><br /><b>Discord:</b><br />@okayway1
+  <td align="center"><br /><a href="https://polymarket.com/@aenews2"><img alt="aenews" src="https://polymarket.com/_next/image?url=https%3A%2F%2Fpolymarket-upload.s3.us-east-2.amazonaws.com%2Fprofile-image-154436-a84dabd0-06ee-40d3-be95-e454283cdfc0.jpg&w=256&q=100" width="117" /><br /><br />aenews</a>
+    <br /><br /><b>Known for:</b><br />Polymarket OG
+    <br /><br /><b>Discord:</b><br />@aenews
   </td>
   
   <td align="center"><a href="https://github.com/lancelot-c"><img alt="lancelot-c" src="https://avatars.githubusercontent.com/u/1041338?v=4" width="117" /><br />lancelot-c</a>
