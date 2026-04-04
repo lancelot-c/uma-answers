@@ -16,15 +16,22 @@
     <br /><br /><b>Known for:</b><br />Member of the <a href="https://docs.uma.xyz/verification-guide/verification-system">UMA Verification Team</a>
     <br /><br /><b>Discord:</b><br />@jessicaonlychild
   </td>
-  
-  <td align="center"><br /><img alt="aenews" src="https://polymarket.com/_next/image?url=https%3A%2F%2Fpolymarket-upload.s3.us-east-2.amazonaws.com%2Fprofile-image-154436-a84dabd0-06ee-40d3-be95-e454283cdfc0.jpg&w=256&q=100" width="117" /><br /><br />aenews
-    <br /><br /><b>Known for:</b><br /><a href="https://polymarket.com/@aenews2">Polymarket OG</a>
-    <br /><br /><b>Discord:</b><br />@aenews
-  </td>
 
   <td align="center"><a href="https://github.com/okayway1"><img alt="okayway1" src="https://avatars.githubusercontent.com/u/246659321?v=4" width="117" /><br />okayway1</a>
     <br /><br /><b>Known for:</b><br />Long-term UMA voter
     <br /><br /><b>Discord:</b><br />@okayway1
+  </td>
+
+  <td align="center"><a href="https://github.com/scoutpol"><img width="117" height="117" alt="scout" src="https://github.com/user-attachments/assets/c9e7e16c-d7c4-4b80-abcf-e0d1d65c4f0d" />
+<br />scout</a>
+    <br /><br /><b>Known for:</b><br />Very active Polymarket & UMA community member
+    <br /><br /><b>Discord:</b><br />@scout7438
+  </td>
+
+  <td align="center"><a href="https://github.com/cruzpoly"><img width="117" height="117" alt="cruz" src="https://github.com/user-attachments/assets/917c82b3-4b91-4e5c-9323-3db8f63821fa" />
+<br />cruz</a>
+    <br /><br /><b>Known for:</b><br />Lots of experience in sports markets
+    <br /><br /><b>Discord:</b><br />@exquisite_wolf_79651
   </td>
   
   <td align="center"><a href="https://github.com/lancelot-c"><img alt="lancelot-c" src="https://avatars.githubusercontent.com/u/1041338?v=4" width="117" /><br />lancelot-c</a>
@@ -33,8 +40,3 @@
   </td>
   
 </tr></table>
-
-
-We are currently looking for additional voting committee members.
-
-Talk to us on [Discord](https://discord.gg/nqxpBsv26A) if you are interested.
